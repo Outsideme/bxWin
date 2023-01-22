@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="u1894967" confirmBeforeDeletion="false" autoUploadExternalChanges="true">
+    <option name="confirmBeforeDeletion" value="false" />
+    <serverData>
+      <paths name="u1894967">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="https://malovichko.space" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/www/malovichko.space/bitrix" />
+            <excludedPath path="/www/malovichko.space/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/www/malovichko.space/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/www/malovichko.space/upload" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
